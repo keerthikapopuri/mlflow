@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/978786517122353744/7ce0e3791b01428aa9f1e7b15721bda3/artifacts
+end_time: 1727169578758
+entry_point_name: ''
+experiment_id: '978786517122353744'
+lifecycle_stage: active
+run_id: 7ce0e3791b01428aa9f1e7b15721bda3
+run_name: tasteful-crow-586
+run_uuid: 7ce0e3791b01428aa9f1e7b15721bda3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727169566850
+status: 3
+tags: []
+user_id: HP
